@@ -9,7 +9,7 @@ BASE_URL="https://raw.githubusercontent.com/$USER/$REPO/$BRANCH"
 
 # Files to download
 FILES=(
-  "LabNewsFeed.zip"
+  "EmployeeData.zip"
   "package-install.sh"
 )
 
